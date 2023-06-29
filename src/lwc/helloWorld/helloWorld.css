@@ -1,0 +1,13 @@
+/**
+ * Created by justi on 6/28/2023.
+ */
+.greeting-class{
+    color: lawngreen;
+}
+
+div{
+    border : 3px solid blue;
+}
+:host{
+    border : 4px solid darkred;
+}
